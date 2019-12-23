@@ -1,11 +1,16 @@
-- title: Researcher Fellow
+- title: Research Fellow
+  color: dark 
+  icon: fas fa-search
+  description: >
+    Determining the influence of Trump on congressional members and democracy through analysis of Twitter and Facebook.
+    
+- title: Government Consultant 
   color: dark 
   icon: fas fa-landmark
   description: >
-    Determining the influence of Trump on congressional members and democracy through analysis of Twitter and Facebook; 
-    managing relationships between other researchers and faculty professor.
+      Drafted content for an executive orders for North Carolina's Governor Cooper and spearheaded policy analysis of legislative actions at the state level.
 
-- title: Consultant, Qualitative Analysis 
+- title: Strategic Consultant
   color: dark 
   icon: fas fa-chart-line
   description: >
@@ -16,6 +21,17 @@
   color: dark
   icon: fas fa-globe-americas 
   description: >
-      Contributed to the "America Engaged: Annual Public Opinion Report" specifically utilized SPSS for data analysis and built data visualizations in published report. 
-      Additionally, in this role I analyzed results and translated jargon into writing that captures public thought for a 
-      "US-Israeli briefing" that showcased portions of public thought trends in America.
+      Analyzed and visualized raw data for the publised report, "America Engaged: Annual Public Opinion Report".
+      Synthesized results for the publication, "US-Israeli briefing", that showcased portions of public thought trends in America.
+
+- title: Cyber Policy Analyst
+  color: dark
+  icon: fas fa-code
+  description: >
+      Authored policy memos on Russian election cybersecurity attacks and economic implications. Synthesized meetings between white-hat hackers and translated jargon for government officials.
+
+- title: Business Consultant
+  color: dark 
+  icon: fas fa-business-time
+  description: >
+    Detected most effective use of marketing funds for local small business client using R and STATA. Addressed client inefficiencies resulting in savings of $100,000.
